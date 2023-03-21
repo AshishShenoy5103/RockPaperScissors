@@ -24,7 +24,7 @@ There are several areas where this game could be improved, such as:
   <li>Adding a graphical user interface (GUI) to make the game more user-friendly.</li>
   <li>Allowing the user to select the number of rounds they want to play.</li>
   <li>Adding more options for the user to choose from (e.g. lizard, Spock, etc.).</li>
-  <li>Implementing a more advanced algorithm for the computer's selection (e.g. machine learning).<li>
+  <li>Implementing a more advanced algorithm for the computer's selection (e.g. machine learning).</li>
 </ol>
 
 <h2><b>Conclusion</b></h2>
